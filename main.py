@@ -1,4 +1,4 @@
-
+#eto vtoraa versia bota
 import telebot
 
 bot = telebot.TeleBot("7679178613:AAFh2FTFXwIooZu68mrT3WmBjXWFAUzsKVY")
